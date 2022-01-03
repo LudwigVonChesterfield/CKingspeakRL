@@ -11,7 +11,7 @@ entity create_speech_popup(registry& registry, GridSpatial& gridSpatial, Looks& 
     registry.emplace<Looks>(popup, text, looks.font, looks.size / 2, looks.background, looks.foreground);
     registry.emplace<Sprite>(popup, create_sprite(registry.get<Looks>(popup)));
     registry.emplace<Temporary>(popup, 3 SECONDS);
-    registry.emplace<Velocity>(popup, 0, -10);
+    registry.emplace<Velocity>(popup, 0, -50);
 
     return popup;
 }
