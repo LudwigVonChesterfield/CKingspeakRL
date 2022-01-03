@@ -32,9 +32,6 @@ private:
     int next_input = 0;
     int input_delay = 0.1 SECONDS;
 
-    int next_input_tap = 0;
-    int input_tap_delay = 0.1 SECONDS;
-
     set<SDL_Keycode> pressed_keys;
     map<SDL_Keycode, Action*> mapped_actions;
 };

@@ -16,34 +16,6 @@ bool ControlsHandler::is_pressed(SDL_Keycode key){
 
 void ControlsHandler::press(registry& registry, SDL_Keycode key){
     pressed_keys.insert(key);
-
-    if(next_input_tap > 0){
-        return;
-    }
-    next_input_tap = input_tap_delay;
-    next_input = input_delay;
-
-    auto action_iterator = mapped_actions.find(key);
-    if(action_iterator == mapped_actions.end()){
-        return;
-    }
-
-    Action* key_action = action_iterator->second;
-
-    auto view = registry.view<Interactable, Controlled>();
-
-    for(auto ent : view){
-        auto& interactable = view.get<Interactable>(ent);
-
-        queue<Action*> empty;
-        swap(interactable.planned, empty);
-
-        if(!interactable.planned.empty()){
-            continue;
-        }
-
-        interactable.planned.push(key_action);
-    }
 }
 
 void ControlsHandler::unpress(registry& registry, SDL_Keycode key){
@@ -51,15 +23,10 @@ void ControlsHandler::unpress(registry& registry, SDL_Keycode key){
 }
 
 void ControlsHandler::handle_inputs(registry& registry, int dt){
-    if(next_input_tap > 0){
-        next_input_tap -= dt;
-    }
-
     if(next_input > 0){
         next_input -= dt;
         return;
     }
-    next_input = input_delay;
 
     auto view = registry.view<Interactable, Controlled>();
 
@@ -79,6 +46,7 @@ void ControlsHandler::handle_inputs(registry& registry, int dt){
                 break;
             }
 
+            next_input = input_delay;
             interactable.planned.push(action);
         }
     }
