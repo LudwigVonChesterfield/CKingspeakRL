@@ -1,0 +1,5947 @@
+{
+    "value0": 229,
+    "value1": 4294967295,
+    "value2": 0,
+    "value3": 1,
+    "value4": 2,
+    "value5": 3,
+    "value6": 4,
+    "value7": 5,
+    "value8": 6,
+    "value9": 7,
+    "value10": 8,
+    "value11": 9,
+    "value12": 10,
+    "value13": 11,
+    "value14": 12,
+    "value15": 13,
+    "value16": 14,
+    "value17": 15,
+    "value18": 16,
+    "value19": 17,
+    "value20": 18,
+    "value21": 19,
+    "value22": 20,
+    "value23": 21,
+    "value24": 22,
+    "value25": 23,
+    "value26": 24,
+    "value27": 25,
+    "value28": 26,
+    "value29": 27,
+    "value30": 28,
+    "value31": 29,
+    "value32": 30,
+    "value33": 31,
+    "value34": 32,
+    "value35": 33,
+    "value36": 34,
+    "value37": 35,
+    "value38": 36,
+    "value39": 37,
+    "value40": 38,
+    "value41": 39,
+    "value42": 40,
+    "value43": 41,
+    "value44": 42,
+    "value45": 43,
+    "value46": 44,
+    "value47": 45,
+    "value48": 46,
+    "value49": 47,
+    "value50": 48,
+    "value51": 49,
+    "value52": 50,
+    "value53": 51,
+    "value54": 52,
+    "value55": 53,
+    "value56": 54,
+    "value57": 55,
+    "value58": 56,
+    "value59": 57,
+    "value60": 58,
+    "value61": 59,
+    "value62": 60,
+    "value63": 61,
+    "value64": 62,
+    "value65": 63,
+    "value66": 64,
+    "value67": 65,
+    "value68": 66,
+    "value69": 67,
+    "value70": 68,
+    "value71": 69,
+    "value72": 70,
+    "value73": 71,
+    "value74": 72,
+    "value75": 73,
+    "value76": 74,
+    "value77": 75,
+    "value78": 76,
+    "value79": 77,
+    "value80": 78,
+    "value81": 79,
+    "value82": 80,
+    "value83": 81,
+    "value84": 82,
+    "value85": 83,
+    "value86": 84,
+    "value87": 85,
+    "value88": 86,
+    "value89": 87,
+    "value90": 88,
+    "value91": 89,
+    "value92": 90,
+    "value93": 91,
+    "value94": 92,
+    "value95": 93,
+    "value96": 94,
+    "value97": 95,
+    "value98": 96,
+    "value99": 97,
+    "value100": 98,
+    "value101": 99,
+    "value102": 100,
+    "value103": 101,
+    "value104": 102,
+    "value105": 103,
+    "value106": 104,
+    "value107": 105,
+    "value108": 106,
+    "value109": 107,
+    "value110": 108,
+    "value111": 109,
+    "value112": 110,
+    "value113": 111,
+    "value114": 112,
+    "value115": 113,
+    "value116": 114,
+    "value117": 115,
+    "value118": 116,
+    "value119": 117,
+    "value120": 118,
+    "value121": 119,
+    "value122": 120,
+    "value123": 121,
+    "value124": 122,
+    "value125": 123,
+    "value126": 124,
+    "value127": 125,
+    "value128": 126,
+    "value129": 127,
+    "value130": 128,
+    "value131": 129,
+    "value132": 130,
+    "value133": 131,
+    "value134": 132,
+    "value135": 133,
+    "value136": 134,
+    "value137": 135,
+    "value138": 136,
+    "value139": 137,
+    "value140": 138,
+    "value141": 139,
+    "value142": 140,
+    "value143": 141,
+    "value144": 142,
+    "value145": 143,
+    "value146": 144,
+    "value147": 145,
+    "value148": 146,
+    "value149": 147,
+    "value150": 148,
+    "value151": 149,
+    "value152": 150,
+    "value153": 151,
+    "value154": 152,
+    "value155": 153,
+    "value156": 154,
+    "value157": 155,
+    "value158": 156,
+    "value159": 157,
+    "value160": 158,
+    "value161": 159,
+    "value162": 160,
+    "value163": 161,
+    "value164": 162,
+    "value165": 163,
+    "value166": 164,
+    "value167": 165,
+    "value168": 166,
+    "value169": 167,
+    "value170": 168,
+    "value171": 169,
+    "value172": 170,
+    "value173": 171,
+    "value174": 172,
+    "value175": 173,
+    "value176": 174,
+    "value177": 175,
+    "value178": 176,
+    "value179": 177,
+    "value180": 178,
+    "value181": 179,
+    "value182": 180,
+    "value183": 181,
+    "value184": 182,
+    "value185": 183,
+    "value186": 184,
+    "value187": 185,
+    "value188": 186,
+    "value189": 187,
+    "value190": 188,
+    "value191": 189,
+    "value192": 190,
+    "value193": 191,
+    "value194": 192,
+    "value195": 193,
+    "value196": 194,
+    "value197": 195,
+    "value198": 196,
+    "value199": 197,
+    "value200": 198,
+    "value201": 199,
+    "value202": 200,
+    "value203": 201,
+    "value204": 202,
+    "value205": 203,
+    "value206": 204,
+    "value207": 205,
+    "value208": 206,
+    "value209": 207,
+    "value210": 208,
+    "value211": 209,
+    "value212": 210,
+    "value213": 211,
+    "value214": 212,
+    "value215": 213,
+    "value216": 214,
+    "value217": 215,
+    "value218": 216,
+    "value219": 217,
+    "value220": 218,
+    "value221": 219,
+    "value222": 220,
+    "value223": 221,
+    "value224": 222,
+    "value225": 223,
+    "value226": 224,
+    "value227": 225,
+    "value228": 226,
+    "value229": 227,
+    "value230": 228,
+    "value231": 0,
+    "value232": {
+        "position": {
+            "x": 7,
+            "y": 7
+        }
+    },
+    "value233": 1,
+    "value234": {
+        "position": {
+            "x": 5,
+            "y": 5
+        }
+    },
+    "value235": 2,
+    "value236": {
+        "position": {
+            "x": 3,
+            "y": 3
+        }
+    },
+    "value237": 3,
+    "value238": {
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "value239": 4,
+    "value240": {
+        "position": {
+            "x": 0,
+            "y": 1
+        }
+    },
+    "value241": 5,
+    "value242": {
+        "position": {
+            "x": 0,
+            "y": 2
+        }
+    },
+    "value243": 6,
+    "value244": {
+        "position": {
+            "x": 0,
+            "y": 3
+        }
+    },
+    "value245": 7,
+    "value246": {
+        "position": {
+            "x": 0,
+            "y": 4
+        }
+    },
+    "value247": 8,
+    "value248": {
+        "position": {
+            "x": 0,
+            "y": 5
+        }
+    },
+    "value249": 9,
+    "value250": {
+        "position": {
+            "x": 0,
+            "y": 6
+        }
+    },
+    "value251": 10,
+    "value252": {
+        "position": {
+            "x": 0,
+            "y": 7
+        }
+    },
+    "value253": 11,
+    "value254": {
+        "position": {
+            "x": 0,
+            "y": 8
+        }
+    },
+    "value255": 12,
+    "value256": {
+        "position": {
+            "x": 0,
+            "y": 9
+        }
+    },
+    "value257": 13,
+    "value258": {
+        "position": {
+            "x": 0,
+            "y": 10
+        }
+    },
+    "value259": 14,
+    "value260": {
+        "position": {
+            "x": 0,
+            "y": 11
+        }
+    },
+    "value261": 15,
+    "value262": {
+        "position": {
+            "x": 0,
+            "y": 12
+        }
+    },
+    "value263": 16,
+    "value264": {
+        "position": {
+            "x": 0,
+            "y": 13
+        }
+    },
+    "value265": 17,
+    "value266": {
+        "position": {
+            "x": 0,
+            "y": 14
+        }
+    },
+    "value267": 18,
+    "value268": {
+        "position": {
+            "x": 1,
+            "y": 0
+        }
+    },
+    "value269": 19,
+    "value270": {
+        "position": {
+            "x": 1,
+            "y": 1
+        }
+    },
+    "value271": 20,
+    "value272": {
+        "position": {
+            "x": 1,
+            "y": 2
+        }
+    },
+    "value273": 21,
+    "value274": {
+        "position": {
+            "x": 1,
+            "y": 3
+        }
+    },
+    "value275": 22,
+    "value276": {
+        "position": {
+            "x": 1,
+            "y": 4
+        }
+    },
+    "value277": 23,
+    "value278": {
+        "position": {
+            "x": 1,
+            "y": 5
+        }
+    },
+    "value279": 24,
+    "value280": {
+        "position": {
+            "x": 1,
+            "y": 6
+        }
+    },
+    "value281": 25,
+    "value282": {
+        "position": {
+            "x": 1,
+            "y": 7
+        }
+    },
+    "value283": 26,
+    "value284": {
+        "position": {
+            "x": 1,
+            "y": 8
+        }
+    },
+    "value285": 27,
+    "value286": {
+        "position": {
+            "x": 1,
+            "y": 9
+        }
+    },
+    "value287": 28,
+    "value288": {
+        "position": {
+            "x": 1,
+            "y": 10
+        }
+    },
+    "value289": 29,
+    "value290": {
+        "position": {
+            "x": 1,
+            "y": 11
+        }
+    },
+    "value291": 30,
+    "value292": {
+        "position": {
+            "x": 1,
+            "y": 12
+        }
+    },
+    "value293": 31,
+    "value294": {
+        "position": {
+            "x": 1,
+            "y": 13
+        }
+    },
+    "value295": 32,
+    "value296": {
+        "position": {
+            "x": 1,
+            "y": 14
+        }
+    },
+    "value297": 33,
+    "value298": {
+        "position": {
+            "x": 2,
+            "y": 0
+        }
+    },
+    "value299": 34,
+    "value300": {
+        "position": {
+            "x": 2,
+            "y": 1
+        }
+    },
+    "value301": 35,
+    "value302": {
+        "position": {
+            "x": 2,
+            "y": 2
+        }
+    },
+    "value303": 36,
+    "value304": {
+        "position": {
+            "x": 2,
+            "y": 3
+        }
+    },
+    "value305": 37,
+    "value306": {
+        "position": {
+            "x": 2,
+            "y": 4
+        }
+    },
+    "value307": 38,
+    "value308": {
+        "position": {
+            "x": 2,
+            "y": 5
+        }
+    },
+    "value309": 39,
+    "value310": {
+        "position": {
+            "x": 2,
+            "y": 6
+        }
+    },
+    "value311": 40,
+    "value312": {
+        "position": {
+            "x": 2,
+            "y": 7
+        }
+    },
+    "value313": 41,
+    "value314": {
+        "position": {
+            "x": 2,
+            "y": 8
+        }
+    },
+    "value315": 42,
+    "value316": {
+        "position": {
+            "x": 2,
+            "y": 9
+        }
+    },
+    "value317": 43,
+    "value318": {
+        "position": {
+            "x": 2,
+            "y": 10
+        }
+    },
+    "value319": 44,
+    "value320": {
+        "position": {
+            "x": 2,
+            "y": 11
+        }
+    },
+    "value321": 45,
+    "value322": {
+        "position": {
+            "x": 2,
+            "y": 12
+        }
+    },
+    "value323": 46,
+    "value324": {
+        "position": {
+            "x": 2,
+            "y": 13
+        }
+    },
+    "value325": 47,
+    "value326": {
+        "position": {
+            "x": 2,
+            "y": 14
+        }
+    },
+    "value327": 48,
+    "value328": {
+        "position": {
+            "x": 3,
+            "y": 0
+        }
+    },
+    "value329": 49,
+    "value330": {
+        "position": {
+            "x": 3,
+            "y": 1
+        }
+    },
+    "value331": 50,
+    "value332": {
+        "position": {
+            "x": 3,
+            "y": 2
+        }
+    },
+    "value333": 51,
+    "value334": {
+        "position": {
+            "x": 3,
+            "y": 3
+        }
+    },
+    "value335": 52,
+    "value336": {
+        "position": {
+            "x": 3,
+            "y": 4
+        }
+    },
+    "value337": 53,
+    "value338": {
+        "position": {
+            "x": 3,
+            "y": 5
+        }
+    },
+    "value339": 54,
+    "value340": {
+        "position": {
+            "x": 3,
+            "y": 6
+        }
+    },
+    "value341": 55,
+    "value342": {
+        "position": {
+            "x": 3,
+            "y": 7
+        }
+    },
+    "value343": 56,
+    "value344": {
+        "position": {
+            "x": 3,
+            "y": 8
+        }
+    },
+    "value345": 57,
+    "value346": {
+        "position": {
+            "x": 3,
+            "y": 9
+        }
+    },
+    "value347": 58,
+    "value348": {
+        "position": {
+            "x": 3,
+            "y": 10
+        }
+    },
+    "value349": 59,
+    "value350": {
+        "position": {
+            "x": 3,
+            "y": 11
+        }
+    },
+    "value351": 60,
+    "value352": {
+        "position": {
+            "x": 3,
+            "y": 12
+        }
+    },
+    "value353": 61,
+    "value354": {
+        "position": {
+            "x": 3,
+            "y": 13
+        }
+    },
+    "value355": 62,
+    "value356": {
+        "position": {
+            "x": 3,
+            "y": 14
+        }
+    },
+    "value357": 63,
+    "value358": {
+        "position": {
+            "x": 4,
+            "y": 0
+        }
+    },
+    "value359": 64,
+    "value360": {
+        "position": {
+            "x": 4,
+            "y": 1
+        }
+    },
+    "value361": 65,
+    "value362": {
+        "position": {
+            "x": 4,
+            "y": 2
+        }
+    },
+    "value363": 66,
+    "value364": {
+        "position": {
+            "x": 4,
+            "y": 3
+        }
+    },
+    "value365": 67,
+    "value366": {
+        "position": {
+            "x": 4,
+            "y": 4
+        }
+    },
+    "value367": 68,
+    "value368": {
+        "position": {
+            "x": 4,
+            "y": 5
+        }
+    },
+    "value369": 69,
+    "value370": {
+        "position": {
+            "x": 4,
+            "y": 6
+        }
+    },
+    "value371": 70,
+    "value372": {
+        "position": {
+            "x": 4,
+            "y": 7
+        }
+    },
+    "value373": 71,
+    "value374": {
+        "position": {
+            "x": 4,
+            "y": 8
+        }
+    },
+    "value375": 72,
+    "value376": {
+        "position": {
+            "x": 4,
+            "y": 9
+        }
+    },
+    "value377": 73,
+    "value378": {
+        "position": {
+            "x": 4,
+            "y": 10
+        }
+    },
+    "value379": 74,
+    "value380": {
+        "position": {
+            "x": 4,
+            "y": 11
+        }
+    },
+    "value381": 75,
+    "value382": {
+        "position": {
+            "x": 4,
+            "y": 12
+        }
+    },
+    "value383": 76,
+    "value384": {
+        "position": {
+            "x": 4,
+            "y": 13
+        }
+    },
+    "value385": 77,
+    "value386": {
+        "position": {
+            "x": 4,
+            "y": 14
+        }
+    },
+    "value387": 78,
+    "value388": {
+        "position": {
+            "x": 5,
+            "y": 0
+        }
+    },
+    "value389": 79,
+    "value390": {
+        "position": {
+            "x": 5,
+            "y": 1
+        }
+    },
+    "value391": 80,
+    "value392": {
+        "position": {
+            "x": 5,
+            "y": 2
+        }
+    },
+    "value393": 81,
+    "value394": {
+        "position": {
+            "x": 5,
+            "y": 3
+        }
+    },
+    "value395": 82,
+    "value396": {
+        "position": {
+            "x": 5,
+            "y": 4
+        }
+    },
+    "value397": 83,
+    "value398": {
+        "position": {
+            "x": 5,
+            "y": 5
+        }
+    },
+    "value399": 84,
+    "value400": {
+        "position": {
+            "x": 5,
+            "y": 6
+        }
+    },
+    "value401": 85,
+    "value402": {
+        "position": {
+            "x": 5,
+            "y": 7
+        }
+    },
+    "value403": 86,
+    "value404": {
+        "position": {
+            "x": 5,
+            "y": 8
+        }
+    },
+    "value405": 87,
+    "value406": {
+        "position": {
+            "x": 5,
+            "y": 9
+        }
+    },
+    "value407": 88,
+    "value408": {
+        "position": {
+            "x": 5,
+            "y": 10
+        }
+    },
+    "value409": 89,
+    "value410": {
+        "position": {
+            "x": 5,
+            "y": 11
+        }
+    },
+    "value411": 90,
+    "value412": {
+        "position": {
+            "x": 5,
+            "y": 12
+        }
+    },
+    "value413": 91,
+    "value414": {
+        "position": {
+            "x": 5,
+            "y": 13
+        }
+    },
+    "value415": 92,
+    "value416": {
+        "position": {
+            "x": 5,
+            "y": 14
+        }
+    },
+    "value417": 93,
+    "value418": {
+        "position": {
+            "x": 6,
+            "y": 0
+        }
+    },
+    "value419": 94,
+    "value420": {
+        "position": {
+            "x": 6,
+            "y": 1
+        }
+    },
+    "value421": 95,
+    "value422": {
+        "position": {
+            "x": 6,
+            "y": 2
+        }
+    },
+    "value423": 96,
+    "value424": {
+        "position": {
+            "x": 6,
+            "y": 3
+        }
+    },
+    "value425": 97,
+    "value426": {
+        "position": {
+            "x": 6,
+            "y": 4
+        }
+    },
+    "value427": 98,
+    "value428": {
+        "position": {
+            "x": 6,
+            "y": 5
+        }
+    },
+    "value429": 99,
+    "value430": {
+        "position": {
+            "x": 6,
+            "y": 6
+        }
+    },
+    "value431": 100,
+    "value432": {
+        "position": {
+            "x": 6,
+            "y": 7
+        }
+    },
+    "value433": 101,
+    "value434": {
+        "position": {
+            "x": 6,
+            "y": 8
+        }
+    },
+    "value435": 102,
+    "value436": {
+        "position": {
+            "x": 6,
+            "y": 9
+        }
+    },
+    "value437": 103,
+    "value438": {
+        "position": {
+            "x": 6,
+            "y": 10
+        }
+    },
+    "value439": 104,
+    "value440": {
+        "position": {
+            "x": 6,
+            "y": 11
+        }
+    },
+    "value441": 105,
+    "value442": {
+        "position": {
+            "x": 6,
+            "y": 12
+        }
+    },
+    "value443": 106,
+    "value444": {
+        "position": {
+            "x": 6,
+            "y": 13
+        }
+    },
+    "value445": 107,
+    "value446": {
+        "position": {
+            "x": 6,
+            "y": 14
+        }
+    },
+    "value447": 108,
+    "value448": {
+        "position": {
+            "x": 7,
+            "y": 0
+        }
+    },
+    "value449": 109,
+    "value450": {
+        "position": {
+            "x": 7,
+            "y": 1
+        }
+    },
+    "value451": 110,
+    "value452": {
+        "position": {
+            "x": 7,
+            "y": 2
+        }
+    },
+    "value453": 111,
+    "value454": {
+        "position": {
+            "x": 7,
+            "y": 3
+        }
+    },
+    "value455": 112,
+    "value456": {
+        "position": {
+            "x": 7,
+            "y": 4
+        }
+    },
+    "value457": 113,
+    "value458": {
+        "position": {
+            "x": 7,
+            "y": 5
+        }
+    },
+    "value459": 114,
+    "value460": {
+        "position": {
+            "x": 7,
+            "y": 6
+        }
+    },
+    "value461": 115,
+    "value462": {
+        "position": {
+            "x": 7,
+            "y": 7
+        }
+    },
+    "value463": 116,
+    "value464": {
+        "position": {
+            "x": 7,
+            "y": 8
+        }
+    },
+    "value465": 117,
+    "value466": {
+        "position": {
+            "x": 7,
+            "y": 9
+        }
+    },
+    "value467": 118,
+    "value468": {
+        "position": {
+            "x": 7,
+            "y": 10
+        }
+    },
+    "value469": 119,
+    "value470": {
+        "position": {
+            "x": 7,
+            "y": 11
+        }
+    },
+    "value471": 120,
+    "value472": {
+        "position": {
+            "x": 7,
+            "y": 12
+        }
+    },
+    "value473": 121,
+    "value474": {
+        "position": {
+            "x": 7,
+            "y": 13
+        }
+    },
+    "value475": 122,
+    "value476": {
+        "position": {
+            "x": 7,
+            "y": 14
+        }
+    },
+    "value477": 123,
+    "value478": {
+        "position": {
+            "x": 8,
+            "y": 0
+        }
+    },
+    "value479": 124,
+    "value480": {
+        "position": {
+            "x": 8,
+            "y": 1
+        }
+    },
+    "value481": 125,
+    "value482": {
+        "position": {
+            "x": 8,
+            "y": 2
+        }
+    },
+    "value483": 126,
+    "value484": {
+        "position": {
+            "x": 8,
+            "y": 3
+        }
+    },
+    "value485": 127,
+    "value486": {
+        "position": {
+            "x": 8,
+            "y": 4
+        }
+    },
+    "value487": 128,
+    "value488": {
+        "position": {
+            "x": 8,
+            "y": 5
+        }
+    },
+    "value489": 129,
+    "value490": {
+        "position": {
+            "x": 8,
+            "y": 6
+        }
+    },
+    "value491": 130,
+    "value492": {
+        "position": {
+            "x": 8,
+            "y": 7
+        }
+    },
+    "value493": 131,
+    "value494": {
+        "position": {
+            "x": 8,
+            "y": 8
+        }
+    },
+    "value495": 132,
+    "value496": {
+        "position": {
+            "x": 8,
+            "y": 9
+        }
+    },
+    "value497": 133,
+    "value498": {
+        "position": {
+            "x": 8,
+            "y": 10
+        }
+    },
+    "value499": 134,
+    "value500": {
+        "position": {
+            "x": 8,
+            "y": 11
+        }
+    },
+    "value501": 135,
+    "value502": {
+        "position": {
+            "x": 8,
+            "y": 12
+        }
+    },
+    "value503": 136,
+    "value504": {
+        "position": {
+            "x": 8,
+            "y": 13
+        }
+    },
+    "value505": 137,
+    "value506": {
+        "position": {
+            "x": 8,
+            "y": 14
+        }
+    },
+    "value507": 138,
+    "value508": {
+        "position": {
+            "x": 9,
+            "y": 0
+        }
+    },
+    "value509": 139,
+    "value510": {
+        "position": {
+            "x": 9,
+            "y": 1
+        }
+    },
+    "value511": 140,
+    "value512": {
+        "position": {
+            "x": 9,
+            "y": 2
+        }
+    },
+    "value513": 141,
+    "value514": {
+        "position": {
+            "x": 9,
+            "y": 3
+        }
+    },
+    "value515": 142,
+    "value516": {
+        "position": {
+            "x": 9,
+            "y": 4
+        }
+    },
+    "value517": 143,
+    "value518": {
+        "position": {
+            "x": 9,
+            "y": 5
+        }
+    },
+    "value519": 144,
+    "value520": {
+        "position": {
+            "x": 9,
+            "y": 6
+        }
+    },
+    "value521": 145,
+    "value522": {
+        "position": {
+            "x": 9,
+            "y": 7
+        }
+    },
+    "value523": 146,
+    "value524": {
+        "position": {
+            "x": 9,
+            "y": 8
+        }
+    },
+    "value525": 147,
+    "value526": {
+        "position": {
+            "x": 9,
+            "y": 9
+        }
+    },
+    "value527": 148,
+    "value528": {
+        "position": {
+            "x": 9,
+            "y": 10
+        }
+    },
+    "value529": 149,
+    "value530": {
+        "position": {
+            "x": 9,
+            "y": 11
+        }
+    },
+    "value531": 150,
+    "value532": {
+        "position": {
+            "x": 9,
+            "y": 12
+        }
+    },
+    "value533": 151,
+    "value534": {
+        "position": {
+            "x": 9,
+            "y": 13
+        }
+    },
+    "value535": 152,
+    "value536": {
+        "position": {
+            "x": 9,
+            "y": 14
+        }
+    },
+    "value537": 153,
+    "value538": {
+        "position": {
+            "x": 10,
+            "y": 0
+        }
+    },
+    "value539": 154,
+    "value540": {
+        "position": {
+            "x": 10,
+            "y": 1
+        }
+    },
+    "value541": 155,
+    "value542": {
+        "position": {
+            "x": 10,
+            "y": 2
+        }
+    },
+    "value543": 156,
+    "value544": {
+        "position": {
+            "x": 10,
+            "y": 3
+        }
+    },
+    "value545": 157,
+    "value546": {
+        "position": {
+            "x": 10,
+            "y": 4
+        }
+    },
+    "value547": 158,
+    "value548": {
+        "position": {
+            "x": 10,
+            "y": 5
+        }
+    },
+    "value549": 159,
+    "value550": {
+        "position": {
+            "x": 10,
+            "y": 6
+        }
+    },
+    "value551": 160,
+    "value552": {
+        "position": {
+            "x": 10,
+            "y": 7
+        }
+    },
+    "value553": 161,
+    "value554": {
+        "position": {
+            "x": 10,
+            "y": 8
+        }
+    },
+    "value555": 162,
+    "value556": {
+        "position": {
+            "x": 10,
+            "y": 9
+        }
+    },
+    "value557": 163,
+    "value558": {
+        "position": {
+            "x": 10,
+            "y": 10
+        }
+    },
+    "value559": 164,
+    "value560": {
+        "position": {
+            "x": 10,
+            "y": 11
+        }
+    },
+    "value561": 165,
+    "value562": {
+        "position": {
+            "x": 10,
+            "y": 12
+        }
+    },
+    "value563": 166,
+    "value564": {
+        "position": {
+            "x": 10,
+            "y": 13
+        }
+    },
+    "value565": 167,
+    "value566": {
+        "position": {
+            "x": 10,
+            "y": 14
+        }
+    },
+    "value567": 168,
+    "value568": {
+        "position": {
+            "x": 11,
+            "y": 0
+        }
+    },
+    "value569": 169,
+    "value570": {
+        "position": {
+            "x": 11,
+            "y": 1
+        }
+    },
+    "value571": 170,
+    "value572": {
+        "position": {
+            "x": 11,
+            "y": 2
+        }
+    },
+    "value573": 171,
+    "value574": {
+        "position": {
+            "x": 11,
+            "y": 3
+        }
+    },
+    "value575": 172,
+    "value576": {
+        "position": {
+            "x": 11,
+            "y": 4
+        }
+    },
+    "value577": 173,
+    "value578": {
+        "position": {
+            "x": 11,
+            "y": 5
+        }
+    },
+    "value579": 174,
+    "value580": {
+        "position": {
+            "x": 11,
+            "y": 6
+        }
+    },
+    "value581": 175,
+    "value582": {
+        "position": {
+            "x": 11,
+            "y": 7
+        }
+    },
+    "value583": 176,
+    "value584": {
+        "position": {
+            "x": 11,
+            "y": 8
+        }
+    },
+    "value585": 177,
+    "value586": {
+        "position": {
+            "x": 11,
+            "y": 9
+        }
+    },
+    "value587": 178,
+    "value588": {
+        "position": {
+            "x": 11,
+            "y": 10
+        }
+    },
+    "value589": 179,
+    "value590": {
+        "position": {
+            "x": 11,
+            "y": 11
+        }
+    },
+    "value591": 180,
+    "value592": {
+        "position": {
+            "x": 11,
+            "y": 12
+        }
+    },
+    "value593": 181,
+    "value594": {
+        "position": {
+            "x": 11,
+            "y": 13
+        }
+    },
+    "value595": 182,
+    "value596": {
+        "position": {
+            "x": 11,
+            "y": 14
+        }
+    },
+    "value597": 183,
+    "value598": {
+        "position": {
+            "x": 12,
+            "y": 0
+        }
+    },
+    "value599": 184,
+    "value600": {
+        "position": {
+            "x": 12,
+            "y": 1
+        }
+    },
+    "value601": 185,
+    "value602": {
+        "position": {
+            "x": 12,
+            "y": 2
+        }
+    },
+    "value603": 186,
+    "value604": {
+        "position": {
+            "x": 12,
+            "y": 3
+        }
+    },
+    "value605": 187,
+    "value606": {
+        "position": {
+            "x": 12,
+            "y": 4
+        }
+    },
+    "value607": 188,
+    "value608": {
+        "position": {
+            "x": 12,
+            "y": 5
+        }
+    },
+    "value609": 189,
+    "value610": {
+        "position": {
+            "x": 12,
+            "y": 6
+        }
+    },
+    "value611": 190,
+    "value612": {
+        "position": {
+            "x": 12,
+            "y": 7
+        }
+    },
+    "value613": 191,
+    "value614": {
+        "position": {
+            "x": 12,
+            "y": 8
+        }
+    },
+    "value615": 192,
+    "value616": {
+        "position": {
+            "x": 12,
+            "y": 9
+        }
+    },
+    "value617": 193,
+    "value618": {
+        "position": {
+            "x": 12,
+            "y": 10
+        }
+    },
+    "value619": 194,
+    "value620": {
+        "position": {
+            "x": 12,
+            "y": 11
+        }
+    },
+    "value621": 195,
+    "value622": {
+        "position": {
+            "x": 12,
+            "y": 12
+        }
+    },
+    "value623": 196,
+    "value624": {
+        "position": {
+            "x": 12,
+            "y": 13
+        }
+    },
+    "value625": 197,
+    "value626": {
+        "position": {
+            "x": 12,
+            "y": 14
+        }
+    },
+    "value627": 198,
+    "value628": {
+        "position": {
+            "x": 13,
+            "y": 0
+        }
+    },
+    "value629": 199,
+    "value630": {
+        "position": {
+            "x": 13,
+            "y": 1
+        }
+    },
+    "value631": 200,
+    "value632": {
+        "position": {
+            "x": 13,
+            "y": 2
+        }
+    },
+    "value633": 201,
+    "value634": {
+        "position": {
+            "x": 13,
+            "y": 3
+        }
+    },
+    "value635": 202,
+    "value636": {
+        "position": {
+            "x": 13,
+            "y": 4
+        }
+    },
+    "value637": 203,
+    "value638": {
+        "position": {
+            "x": 13,
+            "y": 5
+        }
+    },
+    "value639": 204,
+    "value640": {
+        "position": {
+            "x": 13,
+            "y": 6
+        }
+    },
+    "value641": 205,
+    "value642": {
+        "position": {
+            "x": 13,
+            "y": 7
+        }
+    },
+    "value643": 206,
+    "value644": {
+        "position": {
+            "x": 13,
+            "y": 8
+        }
+    },
+    "value645": 207,
+    "value646": {
+        "position": {
+            "x": 13,
+            "y": 9
+        }
+    },
+    "value647": 208,
+    "value648": {
+        "position": {
+            "x": 13,
+            "y": 10
+        }
+    },
+    "value649": 209,
+    "value650": {
+        "position": {
+            "x": 13,
+            "y": 11
+        }
+    },
+    "value651": 210,
+    "value652": {
+        "position": {
+            "x": 13,
+            "y": 12
+        }
+    },
+    "value653": 211,
+    "value654": {
+        "position": {
+            "x": 13,
+            "y": 13
+        }
+    },
+    "value655": 212,
+    "value656": {
+        "position": {
+            "x": 13,
+            "y": 14
+        }
+    },
+    "value657": 213,
+    "value658": {
+        "position": {
+            "x": 14,
+            "y": 0
+        }
+    },
+    "value659": 214,
+    "value660": {
+        "position": {
+            "x": 14,
+            "y": 1
+        }
+    },
+    "value661": 215,
+    "value662": {
+        "position": {
+            "x": 14,
+            "y": 2
+        }
+    },
+    "value663": 216,
+    "value664": {
+        "position": {
+            "x": 14,
+            "y": 3
+        }
+    },
+    "value665": 217,
+    "value666": {
+        "position": {
+            "x": 14,
+            "y": 4
+        }
+    },
+    "value667": 218,
+    "value668": {
+        "position": {
+            "x": 14,
+            "y": 5
+        }
+    },
+    "value669": 219,
+    "value670": {
+        "position": {
+            "x": 14,
+            "y": 6
+        }
+    },
+    "value671": 220,
+    "value672": {
+        "position": {
+            "x": 14,
+            "y": 7
+        }
+    },
+    "value673": 221,
+    "value674": {
+        "position": {
+            "x": 14,
+            "y": 8
+        }
+    },
+    "value675": 222,
+    "value676": {
+        "position": {
+            "x": 14,
+            "y": 9
+        }
+    },
+    "value677": 223,
+    "value678": {
+        "position": {
+            "x": 14,
+            "y": 10
+        }
+    },
+    "value679": 224,
+    "value680": {
+        "position": {
+            "x": 14,
+            "y": 11
+        }
+    },
+    "value681": 225,
+    "value682": {
+        "position": {
+            "x": 14,
+            "y": 12
+        }
+    },
+    "value683": 226,
+    "value684": {
+        "position": {
+            "x": 14,
+            "y": 13
+        }
+    },
+    "value685": 227,
+    "value686": {
+        "position": {
+            "x": 14,
+            "y": 14
+        }
+    },
+    "value687": 3,
+    "value688": 0,
+    "value689": {
+        "weight": 1
+    },
+    "value690": 1,
+    "value691": {
+        "weight": 1
+    },
+    "value692": 2,
+    "value693": {
+        "weight": 10
+    },
+    "value694": 228,
+    "value695": 0,
+    "value696": {
+        "text": "Я",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 171,
+            "g": 178,
+            "b": 191,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value697": 1,
+    "value698": {
+        "text": "Ш",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 241,
+            "g": 143,
+            "b": 1,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value699": 2,
+    "value700": {
+        "text": "■",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        }
+    },
+    "value701": 3,
+    "value702": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value703": 4,
+    "value704": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value705": 5,
+    "value706": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value707": 6,
+    "value708": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value709": 7,
+    "value710": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value711": 8,
+    "value712": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value713": 9,
+    "value714": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value715": 10,
+    "value716": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value717": 11,
+    "value718": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value719": 12,
+    "value720": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value721": 13,
+    "value722": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value723": 14,
+    "value724": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value725": 15,
+    "value726": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value727": 16,
+    "value728": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value729": 17,
+    "value730": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value731": 18,
+    "value732": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value733": 19,
+    "value734": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value735": 20,
+    "value736": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value737": 21,
+    "value738": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value739": 22,
+    "value740": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value741": 23,
+    "value742": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value743": 24,
+    "value744": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value745": 25,
+    "value746": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value747": 26,
+    "value748": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value749": 27,
+    "value750": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value751": 28,
+    "value752": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value753": 29,
+    "value754": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value755": 30,
+    "value756": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value757": 31,
+    "value758": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value759": 32,
+    "value760": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value761": 33,
+    "value762": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value763": 34,
+    "value764": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value765": 35,
+    "value766": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value767": 36,
+    "value768": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value769": 37,
+    "value770": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value771": 38,
+    "value772": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value773": 39,
+    "value774": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value775": 40,
+    "value776": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value777": 41,
+    "value778": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value779": 42,
+    "value780": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value781": 43,
+    "value782": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value783": 44,
+    "value784": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value785": 45,
+    "value786": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value787": 46,
+    "value788": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value789": 47,
+    "value790": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value791": 48,
+    "value792": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value793": 49,
+    "value794": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value795": 50,
+    "value796": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value797": 51,
+    "value798": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value799": 52,
+    "value800": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value801": 53,
+    "value802": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value803": 54,
+    "value804": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value805": 55,
+    "value806": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value807": 56,
+    "value808": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value809": 57,
+    "value810": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value811": 58,
+    "value812": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value813": 59,
+    "value814": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value815": 60,
+    "value816": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value817": 61,
+    "value818": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value819": 62,
+    "value820": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value821": 63,
+    "value822": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value823": 64,
+    "value824": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value825": 65,
+    "value826": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value827": 66,
+    "value828": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value829": 67,
+    "value830": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value831": 68,
+    "value832": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value833": 69,
+    "value834": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value835": 70,
+    "value836": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value837": 71,
+    "value838": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value839": 72,
+    "value840": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value841": 73,
+    "value842": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value843": 74,
+    "value844": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value845": 75,
+    "value846": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value847": 76,
+    "value848": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value849": 77,
+    "value850": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value851": 78,
+    "value852": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value853": 79,
+    "value854": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value855": 80,
+    "value856": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value857": 81,
+    "value858": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value859": 82,
+    "value860": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value861": 83,
+    "value862": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value863": 84,
+    "value864": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value865": 85,
+    "value866": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value867": 86,
+    "value868": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value869": 87,
+    "value870": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value871": 88,
+    "value872": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value873": 89,
+    "value874": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value875": 90,
+    "value876": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value877": 91,
+    "value878": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value879": 92,
+    "value880": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value881": 93,
+    "value882": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value883": 94,
+    "value884": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value885": 95,
+    "value886": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value887": 96,
+    "value888": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value889": 97,
+    "value890": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value891": 98,
+    "value892": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value893": 99,
+    "value894": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value895": 100,
+    "value896": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value897": 101,
+    "value898": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value899": 102,
+    "value900": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value901": 103,
+    "value902": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value903": 104,
+    "value904": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value905": 105,
+    "value906": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value907": 106,
+    "value908": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value909": 107,
+    "value910": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value911": 108,
+    "value912": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value913": 109,
+    "value914": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value915": 110,
+    "value916": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value917": 111,
+    "value918": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value919": 112,
+    "value920": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value921": 113,
+    "value922": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value923": 114,
+    "value924": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value925": 115,
+    "value926": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value927": 116,
+    "value928": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value929": 117,
+    "value930": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value931": 118,
+    "value932": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value933": 119,
+    "value934": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value935": 120,
+    "value936": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value937": 121,
+    "value938": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value939": 122,
+    "value940": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value941": 123,
+    "value942": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value943": 124,
+    "value944": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value945": 125,
+    "value946": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value947": 126,
+    "value948": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value949": 127,
+    "value950": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value951": 128,
+    "value952": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value953": 129,
+    "value954": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value955": 130,
+    "value956": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value957": 131,
+    "value958": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value959": 132,
+    "value960": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value961": 133,
+    "value962": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value963": 134,
+    "value964": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value965": 135,
+    "value966": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value967": 136,
+    "value968": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value969": 137,
+    "value970": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value971": 138,
+    "value972": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value973": 139,
+    "value974": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value975": 140,
+    "value976": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value977": 141,
+    "value978": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value979": 142,
+    "value980": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value981": 143,
+    "value982": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value983": 144,
+    "value984": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value985": 145,
+    "value986": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value987": 146,
+    "value988": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value989": 147,
+    "value990": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value991": 148,
+    "value992": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value993": 149,
+    "value994": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value995": 150,
+    "value996": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value997": 151,
+    "value998": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value999": 152,
+    "value1000": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1001": 153,
+    "value1002": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1003": 154,
+    "value1004": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1005": 155,
+    "value1006": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1007": 156,
+    "value1008": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1009": 157,
+    "value1010": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1011": 158,
+    "value1012": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1013": 159,
+    "value1014": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1015": 160,
+    "value1016": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1017": 161,
+    "value1018": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1019": 162,
+    "value1020": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1021": 163,
+    "value1022": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1023": 164,
+    "value1024": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1025": 165,
+    "value1026": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1027": 166,
+    "value1028": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1029": 167,
+    "value1030": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1031": 168,
+    "value1032": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1033": 169,
+    "value1034": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1035": 170,
+    "value1036": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1037": 171,
+    "value1038": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1039": 172,
+    "value1040": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1041": 173,
+    "value1042": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1043": 174,
+    "value1044": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1045": 175,
+    "value1046": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1047": 176,
+    "value1048": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1049": 177,
+    "value1050": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1051": 178,
+    "value1052": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1053": 179,
+    "value1054": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1055": 180,
+    "value1056": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1057": 181,
+    "value1058": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1059": 182,
+    "value1060": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1061": 183,
+    "value1062": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1063": 184,
+    "value1064": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1065": 185,
+    "value1066": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1067": 186,
+    "value1068": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1069": 187,
+    "value1070": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1071": 188,
+    "value1072": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1073": 189,
+    "value1074": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1075": 190,
+    "value1076": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1077": 191,
+    "value1078": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1079": 192,
+    "value1080": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1081": 193,
+    "value1082": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1083": 194,
+    "value1084": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1085": 195,
+    "value1086": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1087": 196,
+    "value1088": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1089": 197,
+    "value1090": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1091": 198,
+    "value1092": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1093": 199,
+    "value1094": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1095": 200,
+    "value1096": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1097": 201,
+    "value1098": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1099": 202,
+    "value1100": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1101": 203,
+    "value1102": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1103": 204,
+    "value1104": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1105": 205,
+    "value1106": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1107": 206,
+    "value1108": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1109": 207,
+    "value1110": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1111": 208,
+    "value1112": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1113": 209,
+    "value1114": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1115": 210,
+    "value1116": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1117": 211,
+    "value1118": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1119": 212,
+    "value1120": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1121": 213,
+    "value1122": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1123": 214,
+    "value1124": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1125": 215,
+    "value1126": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1127": 216,
+    "value1128": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1129": 217,
+    "value1130": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1131": 218,
+    "value1132": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1133": 219,
+    "value1134": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1135": 220,
+    "value1136": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1137": 221,
+    "value1138": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1139": 222,
+    "value1140": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1141": 223,
+    "value1142": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1143": 224,
+    "value1144": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1145": 225,
+    "value1146": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1147": 226,
+    "value1148": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    },
+    "value1149": 227,
+    "value1150": {
+        "text": ".",
+        "font": "res/Tahoma Regular Font.ttf",
+        "size": 48,
+        "foreground": {
+            "r": 73,
+            "g": 81,
+            "b": 98,
+            "a": 255
+        },
+        "background": {
+            "r": 40,
+            "g": 44,
+            "b": 52,
+            "a": 255
+        }
+    }
+}

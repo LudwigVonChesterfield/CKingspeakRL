@@ -6,6 +6,7 @@
 #include "renderer.hpp"
 #include "interactable.hpp"
 #include "audible.hpp"
+#include "saves.hpp"
 
 using entt::registry;
 using entt::entity;
@@ -50,6 +51,8 @@ int main(int argc, char** argv){
             main_registry.emplace<Sprite>(dot_entity, create_sprite(main_registry.get<Looks>(dot_entity)));
         }
     }
+
+    save_to_file(main_registry, "save.json");
 
     return Engine::engine.start(main_registry);
 }

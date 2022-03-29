@@ -56,7 +56,18 @@
 			"numeric": "cpp",
 			"random": "cpp",
 			"ratio": "cpp",
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"bitset": "cpp",
+			"complex": "cpp",
+			"condition_variable": "cpp",
+			"cstring": "cpp",
+			"forward_list": "cpp",
+			"regex": "cpp",
+			"mutex": "cpp",
+			"thread": "cpp",
+			"typeindex": "cpp",
+			"valarray": "cpp",
+			"variant": "cpp"
 		}
 	}
 }
